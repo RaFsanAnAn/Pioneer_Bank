@@ -1,9 +1,13 @@
 body{
 padding: 100px;
 font-weight: 500;
+background-color: rgb(167, 57, 37);
+color: honeydew;
 }
 
 .submit-area{
+    background-color: white;
+    color: rgb(167, 57, 37) ;
     margin-top: 50px;
     padding: 50px;
     border-radius: 10px;
